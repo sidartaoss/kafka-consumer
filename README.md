@@ -15,3 +15,6 @@
 13. Go to `http://localhost:8080/ui
 14. In the left panel, click on Consumer Groups
 15. Check out consumer group `sidarta-v1`
+
+___
+Reference: MBA ARCHITECTURE FULL CYCLE. Apache Kafka. 2024. Available at: https://plataforma.fullcycle.com.br. Accessed on: Nov. 4, 2024.
