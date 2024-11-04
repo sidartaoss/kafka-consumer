@@ -12,7 +12,7 @@
 10. `docker-compose exec consumer bash`
 11. `go mod tidy`
 12. `go run main.go`
-13. Go to `http://localhost:8080/ui
+13. Go to http://localhost:8080/ui
 14. In the left panel, click on Consumer Groups
 15. Check out consumer group `sidarta-v1`
 
