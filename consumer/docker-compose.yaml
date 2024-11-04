@@ -1,0 +1,10 @@
+
+services:
+
+  app:
+    build: .
+    container_name: consumer
+    volumes:
+      - .:/app
+    extra_hosts:
+      - "host.docker.internal:172.17.0.1"
